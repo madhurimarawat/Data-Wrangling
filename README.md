@@ -17,6 +17,26 @@ Python is a high-level, interpreted programming language widely used in data sci
 
 **Description:** Filter rows or columns based on specified criteria, such as removing outliers or selecting data within a certain range to refine datasets for analysis.
 
+### 3. Data Aggregation
+
+**Description:** Aggregate data by grouping rows based on specific attributes and computing summary statistics, such as mean, median, count, or sum. This helps to summarize large datasets for easier analysis.
+
+### 4. Data Concatenation
+
+**Description:** Concatenate multiple datasets either along rows or columns to create a unified dataset. This method is useful when merging datasets from different sources or appending new data to an existing dataset.
+
+### 5. Data Reshaping
+
+**Description:** Reshape data by pivoting, stacking, or unstacking to convert between wide and long formats. This technique allows for better organization and analysis of data with multiple variables.
+
+### 6. Data Sampling
+
+**Description:** Randomly sample rows or columns from a dataset to create a smaller subset for analysis. Sampling is useful for exploratory data analysis, testing models, or handling large datasets efficiently.
+
+### 7. Data Conversion
+
+**Description:** Convert data types of columns, such as changing categorical variables to numerical representations or converting numerical values into categories, enabling better processing and analysis of the data.
+
 ## Thanks for Visiting 😄
 
 - Drop a 🌟 if you find this repository useful.<br><br>
