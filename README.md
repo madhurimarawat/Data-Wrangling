@@ -7,35 +7,75 @@ This repository contains experiments on data wrangling techniques, focusing on m
 
 Python is a high-level, interpreted programming language widely used in data science for data manipulation, analysis, and visualization. Libraries such as Pandas and NumPy provide powerful tools for data wrangling, including handling missing values, filtering, and reshaping datasets.
 
-## Experiments
+## Directory Structure 📂
 
-### 1. Handling Missing Values
+```
+Data-Wrangling/
+│
+├── Experiment 1 - Handling Missing Values/
+│   ├── Handling_Missing_Values.ipynb
+│
+├── Experiment 2 - Data Filtering/
+│   ├── Data_Filtering.ipynb
+│   ├── Experiment 2 Document.docx
+│
+├── Experiment 3 - Data Aggregation/
+│   ├── Data_Aggregation.ipynb
+│   ├── Experiment 3 Document.docx/
+│
+├── Experiment 4 - Data Concatenation/
+│   ├── Data_Concatenation.ipynb
+│
+├── Experiment 5 - Data Reshaping/
+│   ├── Data_Reshaping.ipynb
+│
+├── Experiment 6 - Data Sampling/
+│   ├── Data_Sampling.ipynb
+│
+├── Experiment 7 - Data Conversion/
+│   ├── Data_Conversion.ipynb
+│
+└── README.md
+```
 
-**Description:** Identify and fill missing values in a dataset using methods such as mean imputation or forward/backward filling to ensure data completeness and accuracy.
+## Table Of Contents 📔 🔖 📑
 
-### 2. Data Filtering
+### 1. [Handling Missing Values](https://github.com/madhurimarawat/Data-Wrangling/tree/main/Experiment%201)
 
-**Description:** Filter rows or columns based on specified criteria, such as removing outliers or selecting data within a certain range to refine datasets for analysis.
+**Description:**  
+Identify and fill missing values in a dataset using methods such as mean imputation or forward/backward filling to ensure data completeness and accuracy.
 
-### 3. Data Aggregation
+### 2. [Data Filtering](https://github.com/madhurimarawat/Data-Wrangling/tree/main/Experiment%202)
 
-**Description:** Aggregate data by grouping rows based on specific attributes and computing summary statistics, such as mean, median, count, or sum. This helps to summarize large datasets for easier analysis.
+**Description:**  
+Filter rows or columns based on specified criteria, such as removing outliers or selecting data within a certain range to refine datasets for analysis.
 
-### 4. Data Concatenation
+### 3. [Data Aggregation](https://github.com/madhurimarawat/Data-Wrangling/tree/main/Experiment%203)
 
-**Description:** Concatenate multiple datasets either along rows or columns to create a unified dataset. This method is useful when merging datasets from different sources or appending new data to an existing dataset.
+**Description:**  
+Aggregate data by grouping rows based on specific attributes and computing summary statistics, such as mean, median, count, or sum. This helps to summarize large datasets for easier analysis.
 
-### 5. Data Reshaping
+### 4. [Data Concatenation](https://github.com/madhurimarawat/Data-Wrangling/tree/main/Experiment%204)
 
-**Description:** Reshape data by pivoting, stacking, or unstacking to convert between wide and long formats. This technique allows for better organization and analysis of data with multiple variables.
+**Description:**  
+Concatenate multiple datasets either along rows or columns to create a unified dataset. This method is useful when merging datasets from different sources or appending new data to an existing dataset.
 
-### 6. Data Sampling
+### 5. [Data Reshaping](https://github.com/madhurimarawat/Data-Wrangling/tree/main/Experiment%205)
 
-**Description:** Randomly sample rows or columns from a dataset to create a smaller subset for analysis. Sampling is useful for exploratory data analysis, testing models, or handling large datasets efficiently.
+**Description:**  
+Reshape data by pivoting, stacking, or unstacking to convert between wide and long formats. This technique allows for better organization and analysis of data with multiple variables.
 
-### 7. Data Conversion
+### 6. [Data Sampling](https://github.com/madhurimarawat/Data-Wrangling/tree/main/Experiment%206)
 
-**Description:** Convert data types of columns, such as changing categorical variables to numerical representations or converting numerical values into categories, enabling better processing and analysis of the data.
+**Description:**  
+Randomly sample rows or columns from a dataset to create a smaller subset for analysis. Sampling is useful for exploratory data analysis, testing models, or handling large datasets efficiently.
+
+### 7. [Data Conversion](https://github.com/madhurimarawat/Data-Wrangling/tree/main/Experiment%207)
+
+**Description:**  
+Convert data types of columns, such as changing categorical variables to numerical representations or converting numerical values into categories, enabling better processing and analysis of the data.
+
+---
 
 ## Thanks for Visiting 😄
 
