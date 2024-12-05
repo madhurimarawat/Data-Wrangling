@@ -75,6 +75,21 @@ Randomly sample rows or columns from a dataset to create a smaller subset for an
 **Description:**  
 Convert data types of columns, such as changing categorical variables to numerical representations or converting numerical values into categories, enabling better processing and analysis of the data.
 
+### 8. [Text Data Processing](https://github.com/madhurimarawat/Data-Wrangling/tree/main/Experiment%208)
+
+**Description:**  
+Clean and preprocess text data by removing punctuation, stopwords, and performing tokenization. This process helps in standardizing the text, making it ready for further analysis such as natural language processing (NLP) or text mining. Tokenization splits text into words or phrases, which can then be analyzed or converted into numerical representations for machine learning models.
+
+### 9. [Date-Time Processing](https://github.com/madhurimarawat/Data-Wrangling/tree/main/Experiment%209)
+
+**Description:**  
+Extract date or time components from datetime columns and perform operations such as calculating time differences or aggregating data by time intervals. This allows for efficient analysis of time series data and helps in understanding trends over different time periods. Techniques include extracting year, month, day, and calculating durations between timestamps.
+
+### 10. [Data Merging](https://github.com/madhurimarawat/Data-Wrangling/tree/main/Experiment%2010)
+
+**Description:**  
+Merge two or more datasets based on common keys or indices to combine information from different sources. This process is essential for creating comprehensive datasets that capture all relevant data points across different tables. Techniques include inner joins, outer joins, left joins, and right joins to ensure that data relationships are properly maintained during the merging process.
+
 ---
 
 ## Thanks for Visiting 😄
